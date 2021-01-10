@@ -1,0 +1,5 @@
+﻿  TestProcessApp.cpp
+c:\users\ksusha\source\repos\testprocessapp\testprocessapp\testprocessapp.cpp(93): warning C4101: 'minMaxInfo': unreferenced local variable
+c:\users\ksusha\source\repos\testprocessapp\testprocessapp\testprocessapp.cpp(92): warning C4101: 'oldPen': unreferenced local variable
+c:\users\ksusha\source\repos\testprocessapp\testprocessapp\testprocessapp.cpp(130): warning C4715: 'WindowProc': not all control paths return a value
+  TestProcessApp.vcxproj -> C:\Users\Ksusha\Source\Repos\TestProcessApp\Debug\TestProcessApp.exe
